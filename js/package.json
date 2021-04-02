@@ -1,0 +1,18 @@
+{
+  "name": "three-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madelyn Focaracci",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.126.1",
+    "three-gltf-loader": "^1.111.0"
+  },
+  "devDependencies": {
+    "three-orbit-controls": "^82.1.0"
+  }
+}
